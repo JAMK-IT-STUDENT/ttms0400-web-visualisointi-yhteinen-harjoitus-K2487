@@ -6,3 +6,5 @@ Tästä on jo aikaisempaa kokemusta viime vuoden harjoituksista ja tuntui olevan
 Paljon erilaisia valmiita tyylejä joita voi hyödyntää. Auttaa responsiivisuuden kanssa.
 * **daneden/animate.css**
 Erilaisia animaatioita sivulle. Saisi sivusta hieman enemmän "elävän" näköistä.
+# Mockup harjoitus
+https://www.fluidui.com/editor/live/preview/cF9jOGlTMWVob0NEWGRWcGJneEMwV0VJM1BrZnprUzh0Mg==
