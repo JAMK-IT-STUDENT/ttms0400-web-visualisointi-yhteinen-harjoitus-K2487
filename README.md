@@ -8,3 +8,6 @@ Paljon erilaisia valmiita tyylejä joita voi hyödyntää. Auttaa responsiivisuu
 Erilaisia animaatioita sivulle. Saisi sivusta hieman enemmän "elävän" näköistä.
 # Mockup harjoitus
 https://www.fluidui.com/editor/live/preview/cF9jOGlTMWVob0NEWGRWcGJneEMwV0VJM1BrZnprUzh0Mg==
+# Animaatiot
+Nappulat: https://codepen.io/k2487/pen/rpaBae
+Slideri: https://codepen.io/k2487/pen/eymOYp
