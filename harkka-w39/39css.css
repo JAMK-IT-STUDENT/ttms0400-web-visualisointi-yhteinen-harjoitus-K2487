@@ -1,0 +1,51 @@
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+
+/* We tell all items to be 100% width */
+.header, .main, .nav, .aside, .footer {
+  flex: 1 100%;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+      body {
+    background-color: palevioletred; 
+          
+  }
+
+
+}
+
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  body {
+    background-color: lawngreen; 
+  }
+    .aside { flex: 1 auto; }
+  }
+  h1,h2,h3 {
+        color: blue;
+    }
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+      body {
+    background-color: skyblue; 
+           
+  }
+    
+ .main { flex: 2 0px; }
+  
+  .aside-1 { order: 1; }
+  .main    { order: 2; }
+  .footer  { order: 3; }
+      h1,h2,h3 {
+        color: ghostwhite;
+    }
+}
+
