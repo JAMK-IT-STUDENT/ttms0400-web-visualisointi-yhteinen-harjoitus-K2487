@@ -1,7 +1,10 @@
 # ttms0400-web-visualisointi-yhteinen-harjoitus-K2487
-# Harjoitus W39 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w39/harkka39.html
-# Harjoitus W41 vakio-teema https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w41/bs-vakioteemat/harkka39.html
-# Harjoitus W41 bs-teema https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w41/bs-teema/index.html
+# Harjoitus W39
+https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w39/harkka39.html
+# Harjoitus W41 vakio-teema
+https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w41/bs-vakioteemat/harkka39.html
+# Harjoitus W41 bs-teema
+https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w41/bs-teema/index.html
 # CSS-kirjasto/FW-harkka
 * **Fontawesome**
 Tästä on jo aikaisempaa kokemusta viime vuoden harjoituksista ja tuntui olevan ihan käytännöllinen. Löytyi kaikenlaisia eri logoja, josta sai hyviä nappeja ja löytyi myös erilaisia fontteja.
