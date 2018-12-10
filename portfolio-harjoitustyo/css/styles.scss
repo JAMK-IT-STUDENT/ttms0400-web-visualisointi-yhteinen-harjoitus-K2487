@@ -1,9 +1,15 @@
+body {
+    font-family: 'Raleway', sans-serif; //Google fontsista saatu "Raleway" fontti
+    margin-top: 126px;
+}
+
+
+//tekstin animointi SASSia hyödyntäen alkaa
+
 $elements: 5;
 $duration: 3s;
 
-body {
-    margin-top: 126px;
-}
+
 
 .flip {
       text-align: center;
@@ -40,14 +46,14 @@ body {
 }
 
 
-.footer {
-    text-align: center;
-}
+//tekstin animointi SASSia hyödyntäen loppuu
 
+//Osaaminen osion tyylimäärittelyt alkaa
 
 .skills {
     text-align: center;
     padding: 1%;
+    padding-top: 3%;
     margin: 1%;
     font-size: 3em;
 }
@@ -64,6 +70,17 @@ body {
     text-align: justify;
 }
 
+.back-back {
+  padding-top: 25px;
+  background-color: #ebebeb; }
+
+//Osaaminen osion tyylimäärittelyt loppuu
+
+
+
+
+
+//Bootstrap karusellin tyylimäärittelyt alkaa
 
 .card-heading {
   font-size: 4.5em;
@@ -73,16 +90,14 @@ body {
   font-size: 1.7em;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
 
-.back-back {
-  padding-top: 25px;
-  background-color: #f4f4f4; }
+
+//Bootstrap karusellin tyylimäärittelyt loppuu
 
 
 
 
 
-
-
+//Bootstrap contact formin tyylimäärittelyt alkaa
 
 .contact-form{
     background: #fff;
@@ -122,9 +137,29 @@ body {
     font-weight: 600;
     color: #fff;
     cursor: pointer;
+    transition-duration: 0.25s;
+}
+
+.btnContact:hover {
+    background-color: steelblue;
 }
 
 
+//Bootstrap contact formin tyylimäärittelyt loppuu
+
+
+//footer
+.footer { 
+    text-align: center;
+    font-family: monospace;
+    font-size: 1.15em;
+}
+
+
+
+
+
+//Media breakpointeja responsiivisuuden parantamiseksi
 
 @media only screen and (max-width: 991px) {
   .lead, .tail {
