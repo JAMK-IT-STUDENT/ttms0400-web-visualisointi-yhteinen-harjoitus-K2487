@@ -36,8 +36,10 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav">
-            <li class="nav-item active"><a class="nav-link" href="#">Koti<span class="sr-only">(current)</span></a></li>
-            <li class="nav-item"><a class="nav-link" href="#">Tietoa minusta</a></li>
+            <li class="nav-item active"><a class="nav-link" href="#Koti">Koti<span class="sr-only">(current)</span></a></li>
+            <li class="nav-item"><a class="nav-link" href="#Tietoaminusta">Tietoa minusta</a></li>
+            <li class="nav-item"><a class="nav-link" href="#Osaaminen">Osaaminen</a></li>
+            <li class="nav-item"><a class="nav-link" href="#Otayhteyttä">Ota yhteyttä</a></li>
         </ul> <!-- navigaatio palkki loppuu -->
         </div>
     </nav>
@@ -47,6 +49,8 @@
      <section></section>
         
 <div class=".container">
+    <a id="Koti"></a>
+
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="0">
 
         <ol class="carousel-indicators">
@@ -112,13 +116,14 @@
                     <p>Video editointi</p>
                     <p>Kuvan käsittely</p>
                     <p>Ohjelmointi</p>
-                    <p>Graafinen suunnittelu</p>
+                    <p>Graafiset työt</p>
 
                 </div>
             </div>
         </div>
     </div>
 </div>
+        <a id="Tietoaminusta"></a>
 <hr>
         
         <div class="container-fluid">
@@ -128,6 +133,7 @@
         </div>
 
         <div class="col-lg-6 col-md-6">
+           
             <h2>Tietoa minusta</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer elementum, libero nec dapibus dignissim, diam ante interdum tortor, et maximus ante elit quis mi. In risus mauris, imperdiet ac ex at, elementum tristique dui. In tempus velit ut mauris sodales, vel egestas velit maximus. Nulla facilisi. Sed porta id orci in mattis. Etiam suscipit pellentesque diam a pellentesque. Donec ante urna, viverra id malesuada eget, tempor sit amet mauris. Fusce volutpat gravida porttitor. Maecenas pulvinar arcu enim, sed fringilla odio ornare sed. Duis eget pretium eros, ut semper libero. Donec quis orci vel lectus pulvinar sodales.</p>
 
@@ -138,7 +144,7 @@
 </div>
       
         
-        
+        <a id="Osaaminen"></a>
         
         
         <div class="container-fluid back-back">
@@ -161,22 +167,50 @@
         </div>
         <div class="col-md-4">
 
-            <h3 class="skill-header"><span class="fa fa-pencil-alt fa-1x"></span> Graafinen suunnittelu</h3><hr>
+            <h3 class="skill-header"><span class="fa fa-pencil-alt fa-1x"></span> Graafiset työt</h3><hr>
             <p class="skill-par">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in condimentum neque. Curabitur sed lectus nisi. Nam in metus arcu. Nam varius, leo et hendrerit venenatis, sem dui mollis ante, eget eleifend nunc massa sed elit. Mauris sit amet lobortis arcu.<br><br> Aenean nulla erat, mollis eget turpis ut, vehicula pretium massa. Vestibulum nec nisl velit. Aliquam erat volutpat. Praesent porta ultricies pellentesque. Sed vitae leo nec erat cursus consequat. Donec diam diam, sodales id ornare at, malesuada sit amet mi.<p>
         </div>
         <div class="col-md-4">
 
             </div> 
-</div></div>
+</div>
         
         
         
+        <a id="Otayhteyttä"></a>
+        
+        <div class="container contact-form">
+            <div class="contact-image">
+                <img src="https://image.ibb.co/kUagtU/rocket_contact.png" alt="rocket_contact"/>
+            </div>
+            <form>
+                <h3>Ota yhteyttä</h3>
+               <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input type="text" name="txtName" class="form-control" placeholder="Nimi *" value="" />
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="txtEmail" class="form-control" placeholder="Sähköposti *" value="" />
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="txtPhone" class="form-control" placeholder="Puhelinnumero *" value="" />
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" name="btnSubmit" class="btnContact" value="Lähetä" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <textarea name="txtMsg" class="form-control" placeholder="Kirjoita viesti *" style="width: 100%; height: 150px;"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </form>
+</div>
         
         
-        
-        
-        
-        
+        </div>
         
         
         
@@ -185,9 +219,13 @@
 <footer class="footer bg-dark">
     <div class="container-fluid">
         <div class="row">
+            
             <div class="col-md-12 text-white">
-                <p> &copy; 2018 Olli Ruponen</p>
+                <p> &copy;2018 Olli Ruponen K2487</p>
             </div>
+            
+            
+            
 
 
             </div>
