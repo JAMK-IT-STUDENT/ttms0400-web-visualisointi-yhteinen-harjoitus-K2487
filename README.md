@@ -1,4 +1,5 @@
-# ttms0400-web-visualisointi-yhteinen-harjoitus-K2487 (2017 vuoden repositorio)
+# ttms0400-web-visualisointi-yhteinen-harjoitus-K2487 
+*(2017 vuoden repositorio)
 # Harjoitus W37
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w37/responsive.html
 # Harjoitus W39
@@ -7,7 +8,7 @@ https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w41/bs-vakioteemat/harkka39.html
 # Harjoitus W41 bs-teema
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w41/bs-teema/index.html
-# Typograpy harjoitus
+# Typography harjoitus
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/web-typography/web-fonts.html
 # CSS-kirjasto/FW-harkka
 * **Fontawesome**
@@ -25,5 +26,5 @@ Slideri: https://codepen.io/k2487/pen/eymOYp
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/portfolio-harjoitustyo/
 * **Harjoitustyön 'commit historia' jäi master branchin puolelle**
 https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/commits/master
-* **Harjoitustyön raportti
+* **Harjoitustyön raportti**
 https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/wiki/Harjoitusty%C3%B6n-raportti
