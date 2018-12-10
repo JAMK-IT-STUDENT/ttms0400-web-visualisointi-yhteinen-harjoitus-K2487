@@ -1,5 +1,5 @@
 # ttms0400-web-visualisointi-yhteinen-harjoitus-K2487 
-*(2017 vuoden repositorio)
+(2017 vuoden repositorio)
 # Harjoitus W37
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w37/responsive.html
 # Harjoitus W39
@@ -19,6 +19,8 @@ Paljon erilaisia valmiita tyylejä joita voi hyödyntää. Auttaa responsiivisuu
 Erilaisia animaatioita sivulle. Saisi sivusta hieman enemmän "elävän" näköistä.
 # Mockup harjoitus
 https://www.fluidui.com/editor/live/preview/cF9jOGlTMWVob0NEWGRWcGJneEMwV0VJM1BrZnprUzh0Mg==
+# Inkscape harkka
+https://student.labranet.jamk.fi/~K2487/Web-visualisointi/logoja/
 # Animaatiot
 Nappulat: https://codepen.io/k2487/pen/rpaBae
 Slideri: https://codepen.io/k2487/pen/eymOYp
