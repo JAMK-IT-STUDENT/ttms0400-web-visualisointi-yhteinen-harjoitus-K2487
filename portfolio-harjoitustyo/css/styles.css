@@ -1,6 +1,9 @@
+body {
+  margin-top: 126px; }
+
 .flip {
   text-align: center;
-  margin: 4%; }
+  margin: 3%; }
 
 .lead {
   font-size: 2em; }
@@ -46,10 +49,6 @@
 .footer {
   text-align: center; }
 
-.carousel-inner img {
-  width: 100%;
-  height: 100%; }
-
 .skills {
   text-align: center;
   padding: 1%;
@@ -58,14 +57,15 @@
 
 .skill-header {
   padding: 4%;
-  text-align: center; }
+  text-align: center;
+  font-size: 2em; }
 
 .skill-par {
   padding: 4%;
   text-align: center; }
 
 .card-heading {
-  font-size: 5.5em;
+  font-size: 4.5em;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
 
 .card-par {
@@ -76,8 +76,14 @@
   padding-top: 25px;
   background-color: #e9e9e9; }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 991px) {
   .lead, .tail {
-    display: none; } }
+    display: none; } 
+}
+
+@media only screen and (max-width: 640px) {
+    .card-heading {font-size: 2.2em;}
+    .card-par{font-size: 1.0em;}
+}
 
 /*# sourceMappingURL=styles.css.map */

@@ -1,9 +1,13 @@
 $elements: 5;
 $duration: 3s;
 
+body {
+    margin-top: 126px;
+}
+
 .flip {
       text-align: center;
-      margin: 4%;
+      margin: 3%;
 }
 
 .lead {
@@ -40,10 +44,6 @@ $duration: 3s;
     text-align: center;
 }
 
-  .carousel-inner img {
-      width: 100%;
-      height: 100%;
-  }
 
 .skills {
     text-align: center;
@@ -55,6 +55,7 @@ $duration: 3s;
 .skill-header {
     padding: 4%;
     text-align: center;
+    font-size: 2em;
 }
 
 .skill-par {
@@ -64,7 +65,7 @@ $duration: 3s;
 
 
 .card-heading {
-  font-size: 5.5em;
+  font-size: 4.5em;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; }
 
 .card-par {
@@ -81,5 +82,4 @@ $duration: 3s;
     .lead, .tail {
     display: none;
 }
-
 }
