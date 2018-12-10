@@ -23,5 +23,5 @@ Nappulat: https://codepen.io/k2487/pen/rpaBae
 Slideri: https://codepen.io/k2487/pen/eymOYp
 # Harjoitustyö
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/portfolio-harjoitustyo/
-**Harjoitustyön 'commit historia' jäi master branchin puolelle**
+* **Harjoitustyön 'commit historia' jäi master branchin puolelle**
 https://github.com/JAMK-IT-STUDENT/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/commits/master
