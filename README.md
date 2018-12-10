@@ -1,5 +1,5 @@
 # ttms0400-web-visualisointi-yhteinen-harjoitus-K2487 
-(2017 vuoden repositorio)
+(2017 vuoden repositorio + uusi typography harkka)
 # Harjoitus W37
 https://jamk-it-student.github.io/ttms0400-web-visualisointi-yhteinen-harjoitus-K2487/harkka-w37/responsive.html
 # Harjoitus W39
